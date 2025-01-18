@@ -23,7 +23,7 @@ This approach ensures:
 - Reduced reliance on static, pretrained knowledge within the generative model.
 - Improved accuracy and relevance in responses.
 
-![RAG](assets/rag.png)
+![RAG](PDFAnalyzer/assets/rag.png)
 
 ---
 
@@ -120,7 +120,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Below is a conceptual layout of the app:
 
-![PDF Query App Screenshot](assets/Screenshot.png)
+![PDF Query App Screenshot](PDFAnalyzer/assets/Screenshot.png)
 
 ---
 
